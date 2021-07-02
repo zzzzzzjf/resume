@@ -58,7 +58,7 @@ h1, h2, h3, h4, h5 {
 
 .progress-list div {
     width: 100%;
-    margin-left: 200px;
+    margin-left: 180px;
 }
 
 .info-list, .progress-list{
@@ -182,9 +182,13 @@ progress::-moz-progress-value {
     width: 200px;
 }
 
+.left-label1 {
+    display: inline-block;
+    width: 80px;
+}
 .left-label {
     display: inline-block;
-    width: 120px;
+    width: 115px;
 }
 
 .portrait {
@@ -206,14 +210,14 @@ progress::-moz-progress-value {
     margin: 0 auto;
 
     width: 1050px;
-    height: 1550px;
+    height: 2500px;
     background-color: white;
 
 }
 
 .side {
     position: absolute;
-    width: 360px;
+    width: 380px;
     height: 100%;
     background-color: whitesmoke;
     padding-left: 20px;
